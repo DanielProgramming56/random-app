@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+
+img{
+	
+}
+/* Container*/
+.container{
+
+}
+
+/*Nav */
+nav{
+	height: 120px;
+	width: auto;
+	background-color: red;
+}
+
+/*Logo - Image*/
+.logo-img{
+	width: 100px;
+	
+}
